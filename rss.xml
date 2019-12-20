@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Dec 2019 11:46:24 GMT</lastBuildDate><item><title><![CDATA[ILYMUN 2020]]></title><description><![CDATA[2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/about/</guid><content:encoded>&lt;p&gt;2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference will take place the 30th, 31st January and 1st of February, in the prestigious ‘Hôtel de Région Auvergne-Rhône-Alpes’ (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). We have invited keen and bright high school pupils to join us to debate and take action!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 20 Dec 2019 14:28:51 GMT</lastBuildDate><item><title><![CDATA[ILYMUN 2020]]></title><description><![CDATA[2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/about/</guid><content:encoded>&lt;p&gt;2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference will take place the 30th, 31st January and 1st of February, in the prestigious ‘Hôtel de Région Auvergne-Rhône-Alpes’ (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). We have invited keen and bright high school pupils to join us to debate and take action!&lt;/p&gt;
 &lt;p&gt;In 2015 the UN adopted 17 goals, the Sustainable Development Goals, and set targets for 2030 in order to improve the quality of life on the planet. The theme of our conference this year, ‘Water: A Thirst for Change’, will focus on Goal 6, Clean water and sanitation, and Goal 14, Life below water. The importance of these two goals is unparalleled. As the UN states, “Water is at the core of sustainable development and is critical for socio-economic development, energy and food production, healthy ecosystems and for human survival itself.”&lt;/p&gt;
 &lt;p&gt;We believe that by involving youth in finding solutions and taking action, we can make a difference. Therefore, in addition to our core MUN committees, we will once again host the Action Assembly, in which students represent themselves rather than countries in order to work towards real change in their local communities, striving for change through direct action. Additionally, ILYMUN will also be hosting the ‘Youth Conference’ for middle school students from the Auvergne-Rhône-Alpes region.&lt;/p&gt;
 &lt;p&gt;We will also offer the Model International Court of Justice (ICJ), a forum that mediates conflicts between two nations by reflecting on treaties, international conventions, and international law. The ICJ is a unique and enriching experience for delegates who wish to try something different to ordinary committees, particularly for those interested in pursuing a career in law.&lt;/p&gt;
@@ -623,6 +623,73 @@ judicial authority within the United Nations. It ensures global justice and safe
 &lt;p&gt;- What makes them interested and qualified for the role&lt;/p&gt;
 &lt;p&gt;Delegates should also state which role they prefer (&lt;em&gt;judge or advocate&lt;/em&gt;) and if they are open to taking the &lt;em&gt;alternative&lt;/em&gt; if they aren’t accepted for their first choice.&lt;/p&gt;
 &lt;p&gt;Send &lt;strong&gt;&lt;em&gt;letters of application&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;any questions&lt;/em&gt;&lt;/strong&gt; about the ICJ to:&lt;/p&gt;
-&lt;p&gt;elenir@islyon.org&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[In 2015, the UN adopted the Sustainable Development Goals, and set targets for 2030. Our conference will focus on Goal 6, Clean water and…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/home-page/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/about/</guid><content:encoded>&lt;p&gt;In 2015, the UN adopted the Sustainable Development Goals, and set targets for 2030. Our conference will focus on Goal 6, Clean water and sanitation, and Goal 14, Life below water. The importance of these two goals is unparalleled. As the UN states, “Water is at the core of sustainable development and is critical for socio-economic development, energy and food production, healthy ecosystems and for human survival itself.” &lt;/p&gt;
+&lt;p&gt;elenir@islyon.org&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The ILYMUN Team]]></title><description><![CDATA[Executive Team: Séphora Giraud-Carrier 
+Basile Rérolle 
+Nathan Bogaert 
+Andras Gocz 
+Nava Gottlieb 
+Malo Thomassin  Heads of Chairs: Teresa…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/team/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/team/</guid><content:encoded>&lt;br/&gt;
+&lt;h4&gt;Executive Team:&lt;/h4&gt;
+&lt;p&gt;Séphora Giraud-Carrier &lt;br/&gt;
+Basile Rérolle &lt;br/&gt;
+Nathan Bogaert &lt;br/&gt;
+Andras Gocz &lt;br/&gt;
+Nava Gottlieb &lt;br/&gt;
+Malo Thomassin &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Chairs:&lt;/h4&gt;
+&lt;p&gt;Teresa Byrne &lt;br/&gt;
+Isabelle Thiney &lt;br/&gt;
+Isaac Noveck &lt;br/&gt;
+Luce Treppoz &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Logistic:&lt;/h4&gt;
+&lt;p&gt;Lalou Bernardini &lt;br/&gt;
+Teo Tankurt-Mourre &lt;br/&gt;
+Pierre-Loup LeNoir &lt;br/&gt;
+Elsa Balen &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Housing:&lt;/h4&gt;
+&lt;p&gt;Julia Bedicks &lt;br/&gt;
+Tahel Tobi &lt;br/&gt;
+Maëlie Perier &lt;br/&gt;
+Emilie Brevière &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Social Events:&lt;/h4&gt;
+&lt;p&gt;Ipek Lara Dogan &lt;br/&gt;
+Tahel Tobi &lt;br/&gt;
+Julia Bedicks &lt;br/&gt;
+Lucas Origlia &lt;br/&gt;
+Elyse Contamin &lt;br/&gt;
+Alice Rossot &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Public Relations:&lt;/h4&gt;
+&lt;p&gt;Virgile Bonnel &lt;br/&gt;
+Tatiane Mendes &lt;br/&gt;
+Alexa Buathier-Phillipps &lt;br/&gt;
+Clara Gomez &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Youth Conference:&lt;/h4&gt;
+&lt;p&gt;Elise Murer &lt;br/&gt;
+Tom Vasseur &lt;br/&gt;
+Sophie Marzio &lt;br/&gt;
+Sonia Pasiecznik &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Head of Press:&lt;/h4&gt;
+&lt;p&gt;Diego Royer &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Audiovisual Press:&lt;/h4&gt;
+&lt;p&gt;Louis Mellinand &lt;br/&gt;
+Alice Nicod &lt;br/&gt;
+Léo Lavost &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Written Press:&lt;/h4&gt;
+&lt;p&gt;Charlene Lizut &lt;br/&gt;
+Isabel Beurois &lt;br/&gt;
+Arthur Quairel &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Admin:&lt;/h4&gt;
+&lt;p&gt;Cian Corcoran &lt;br/&gt;
+Victorien Dirand &lt;br/&gt;
+Anne Dury &lt;br/&gt;
+Sarah Perret &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of Action Assembly:&lt;/h4&gt;
+&lt;p&gt;Capucine Sulmon &lt;br/&gt;
+Eloïse Saint-Girons &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Heads of International Court of Justice:&lt;/h4&gt;
+&lt;p&gt;Horia Barabas &lt;br/&gt;
+Eleni Roka &lt;br/&gt;&lt;/p&gt;
+&lt;h4&gt;Head of Graphic Designs:&lt;/h4&gt;
+&lt;p&gt;Arthur Quairel &lt;br/&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[In 2015, the UN adopted the Sustainable Development Goals, and set targets for 2030. Our conference will focus on Goal 6, Clean water and…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/home-page/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/about/</guid><content:encoded>&lt;p&gt;In 2015, the UN adopted the Sustainable Development Goals, and set targets for 2030. Our conference will focus on Goal 6, Clean water and sanitation, and Goal 14, Life below water. The importance of these two goals is unparalleled. As the UN states, “Water is at the core of sustainable development and is critical for socio-economic development, energy and food production, healthy ecosystems and for human survival itself.” &lt;/p&gt;
 &lt;p&gt;In the past few years, the UN has called great attention to issues of water and now states that water is key to securing peace and a sustainable future. Goals 6 and 14 address issues of water scarcity, water security and equal access to water. They also focus on the protection of the earth’s essential water resources. These resources have been exploited as a source of power and economic profit, critically jeopardising the health of our oceans, lakes and rivers as well as coastal life. In addition, it is crucial to address the increasing conflicts, ranging from water access to maritime boundaries, which are continually shaping relations between nations. Finally, in a time of great technological surge, various solutions to counter water issues must be considered. Indeed, water issues bear upon all areas of human development and thus impact all of us as well as the health of the earth itself.&lt;/p&gt;
 &lt;p&gt;It is our hope that in debating issues regarding ocean health, water scarcity and health the delegates of ILYMUN 2020 will draft these much-needed policies and reforms.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/contact/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/contact/</guid><content:encoded></content:encoded></item><item><title><![CDATA[No title]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/countdown/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/countdown/</guid><content:encoded></content:encoded></item><item><title><![CDATA[By Students for Students]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/parallax/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/parallax/</guid><content:encoded></content:encoded></item><item><title><![CDATA[Press]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/press/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/press/</guid><content:encoded></content:encoded></item><item><title><![CDATA[Our Team]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/team/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/team/</guid><content:encoded></content:encoded></item><item><title><![CDATA[Why ILYMUN?]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/values/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/values/</guid><content:encoded></content:encoded></item><item><title><![CDATA[ILYMUN 2020]]></title><link>https://gatsby-starter-blog-demo.netlify.com/home-page/hero/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/home-page/hero/</guid><pubDate>Invalid Date</pubDate><content:encoded></content:encoded></item></channel></rss>
