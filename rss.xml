@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Jan 2020 09:52:27 GMT</lastBuildDate><item><title><![CDATA[ILYMUN 2020]]></title><description><![CDATA[2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/about/</guid><content:encoded>&lt;p&gt;2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference will take place the 30th, 31st January and 1st of February, in the prestigious ‘Hôtel de Région Auvergne-Rhône-Alpes’ (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). We have invited keen and bright high school pupils to join us to debate and take action!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Jan 2020 09:56:40 GMT</lastBuildDate><item><title><![CDATA[ILYMUN 2020]]></title><description><![CDATA[2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/about/</guid><content:encoded>&lt;p&gt;2020 will be the eighth consecutive year in which the International School of Lyon and the Cité Scolaire Internationale de Lyon collaborate to organise ILYMUN. The conference will take place the 30th, 31st January and 1st of February, in the prestigious ‘Hôtel de Région Auvergne-Rhône-Alpes’ (1 Esplanade François Mitterrand, 69269 Lyon, Cedex 02). We have invited keen and bright high school pupils to join us to debate and take action!&lt;/p&gt;
 &lt;p&gt;In 2015 the UN adopted 17 goals, the Sustainable Development Goals, and set targets for 2030 in order to improve the quality of life on the planet. The theme of our conference this year, ‘Water: A Thirst for Change’, will focus on Goal 6, Clean water and sanitation, and Goal 14, Life below water. The importance of these two goals is unparalleled. As the UN states, “Water is at the core of sustainable development and is critical for socio-economic development, energy and food production, healthy ecosystems and for human survival itself.”&lt;/p&gt;
 &lt;p&gt;We believe that by involving youth in finding solutions and taking action, we can make a difference. Therefore, in addition to our core MUN committees, we will once again host the Action Assembly, in which students represent themselves rather than countries in order to work towards real change in their local communities, striving for change through direct action. Additionally, ILYMUN will also be hosting the ‘Youth Conference’ for middle school students from the Auvergne-Rhône-Alpes region.&lt;/p&gt;
 &lt;p&gt;We will also offer the Model International Court of Justice (ICJ), a forum that mediates conflicts between two nations by reflecting on treaties, international conventions, and international law. The ICJ is a unique and enriching experience for delegates who wish to try something different to ordinary committees, particularly for those interested in pursuing a career in law.&lt;/p&gt;
@@ -623,60 +623,16 @@ judicial authority within the United Nations. It ensures global justice and safe
 &lt;p&gt;- What makes them interested and qualified for the role&lt;/p&gt;
 &lt;p&gt;Delegates should also state which role they prefer (&lt;em&gt;judge or advocate&lt;/em&gt;) and if they are open to taking the &lt;em&gt;alternative&lt;/em&gt; if they aren’t accepted for their first choice.&lt;/p&gt;
 &lt;p&gt;Send &lt;strong&gt;&lt;em&gt;letters of application&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;any questions&lt;/em&gt;&lt;/strong&gt; about the ICJ to:&lt;/p&gt;
-&lt;p&gt;elenir@islyon.org&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Others Muns]]></title><link>https://gatsby-starter-blog-demo.netlify.com/others-muns/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/others-muns/</guid><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;h1 class=&amp;quot;title&amp;quot;&amp;gt;Other MUNs&amp;lt;/h1&amp;gt;
-      &amp;lt;p&amp;gt;Over the years, our students have gone to several MUN conferences, all around the world.&amp;lt;/p&amp;gt;
-      &amp;lt;p&amp;gt;Special shoutout to these two conferences, that inspired us to create ILYMUN:&amp;lt;/p&amp;gt;
-      &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;Impact Summit&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;International MUN, end of September in Prague
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;https://www.salamforpeace.com/about&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;HMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;April conference in Haarlem, The Netherlands
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;https://www.hmun.nl/&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;TIMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;December conference in Istanbul
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;https://www.timun.gen.tr/&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;BERMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;Berlin MUN, that runs in November at the John F. Kennedy School
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;https://www1.bermun.de/&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;INOMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;International North MUN, end of March conference in Lille
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;http://inomun.weebly.com/&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;VefaMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;Vefa Lisesi MUN, end of March conference in Instanbul
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;https://www.facebook.com/vefamun/&amp;quot;&amp;gt;Click for link to facebook page&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;HagaMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;March conference in The Hague
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;https://hagamun.org/&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-        &amp;lt;div class=&amp;quot;col-md-4&amp;quot;&amp;gt;
-          &amp;lt;h3&amp;gt;THIMUN&amp;lt;/h3&amp;gt;
-          &amp;lt;p&amp;gt;The Hague International Mun, that runs in Singapore end of November and in The Hague at the end of January.
-              &amp;lt;br /&amp;gt; &amp;lt;a href=&amp;quot;http://foundation.thimun.org/&amp;quot;&amp;gt;Click for link to website&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-        &amp;lt;/div&amp;gt;
-
-      &amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The ILYMUN Team]]></title><description><![CDATA[Executive Team: Séphora Giraud-Carrier 
+&lt;p&gt;elenir@islyon.org&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Others MUNs]]></title><description><![CDATA[| --- |
+| International MUN, end of September in Prague |
+|  |  Click for link to website |]]></description><link>https://gatsby-starter-blog-demo.netlify.com/others-muns/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/others-muns/</guid><content:encoded>&lt;p&gt;Over the years, our students have gone to several MUN conferences, all around the world.&lt;/p&gt;
+&lt;p&gt;Special shoutout to these two conferences, that inspired us to create ILYMUN:&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-4&quot;&gt;
+&lt;h3&gt;Impact Summit&lt;/h3&gt;
+&lt;p&gt;| --- |
+| &lt;p&gt;International MUN, end of September in Prague |
+|  | &lt;br /&gt; &lt;a href=&quot;https://www.salamforpeace.com/about&quot;&gt;Click for link to website&lt;/a&gt;&lt;/p&gt; |&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The ILYMUN Team]]></title><description><![CDATA[Executive Team: Séphora Giraud-Carrier 
 Basile Rérolle 
 Nathan Bogaert 
 Andras Gocz 
